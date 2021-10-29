@@ -14,6 +14,8 @@
 
 - 🤝 I'm currently working with **Squid-Developement**
 
+- 📫 I'm contactable via [contact@ncks.eu][contact]
+
 <br/>
 
 ## Connect with me:
@@ -60,6 +62,8 @@
 <br/>
 
 [portfolio]: https://ncks.eu/
+
+[contact]: mailto:contact@ncks.eu
 
 [website]: https://ncks.eu/
 [youtube]: https://www.youtube.com/c/NickYouTube
