@@ -19,9 +19,11 @@
 ## Connect with me:
 
 [<img align="left" alt="ncks.eu" width="26px" src="https://ncks.eu/as0odj0sadksa.svg" />][website]
-[<img align="left" alt="YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Twitteru" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="YouTube" width="26px" src="https://www.youtube.com/favicon.ico" />][youtube]
+[<img align="left" alt="Twitter" width="26px" src="https://twitter.com/favicon.ico" />][twitter]
+[<img align="left" alt="Instagram" width="26px" src="https://isntagram.com/favicon.ico" />][instagram]
+[<img align="left" alt="Reddit" width="26px" src="https://www.reddit.com/favicon.ico" />][reddit]
+[<img align="left" alt="Twitch" width="26px" src="https://twitch.tv/favicon.ico" />][twitch]
 
 <br/>
 <br/>
@@ -63,6 +65,8 @@
 [youtube]: https://www.youtube.com/c/NickYouTube
 [twitter]: https://twitter.com/shirunick
 [instagram]: https://instagram.com/shirunick
+[twitch]: https://www.twitch.tv/shirunick
+[reddit]: https://www.reddit.com/user/shirunick
 
 [vscodelink]: https://code.visualstudio.com/
 [githublink]: https://github.com/
