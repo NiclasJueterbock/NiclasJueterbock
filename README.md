@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on a [Portfolio][portfolio]
+- 🔭 I'm currently working on Nothing
 
 - 🌱 I'm currently learning everything 🤣
 
