@@ -20,12 +20,12 @@
 
 ## Connect with me:
 
-[<img align="left" alt="ncks.eu" width="26px" src="https://ncks.eu/as0odj0sadksa.svg" />][website]
+[<img align="left" alt="ncks.eu" width="26px" src="https://ncks.eu/n.png" />][website]
 [<img align="left" alt="YouTube" width="26px" src="https://www.youtube.com/favicon.ico" />][youtube]
 [<img align="left" alt="Twitter" width="26px" src="https://twitter.com/favicon.ico" />][twitter]
 [<img align="left" alt="Instagram" width="26px" src="https://www.instagram.com/favicon.ico" />][instagram]
 [<img align="left" alt="Reddit" width="26px" src="https://www.reddit.com/favicon.ico" />][reddit]
-[<img align="left" alt="Twitch" width="26px" src="https://ncks.eu/sa8zdz9sa8dsa97.ico" />][twitch]
+[<img align="left" alt="Twitch" width="26px" src="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />][twitch]
 
 <br/>
 <br/>
