@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning everything 🤣
 
-- 🤝 I'm currently working with **Squid-Development**
+- 🤝 I'm currently working with **NCKS-Development**
 
 - 📫 I'm contactable via [contact@ncks.eu][contact]
 
