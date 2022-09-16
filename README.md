@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently learning everything 🤣
 
-- 🤝 I'm currently working with **NCKS-Development**
+- 🤝 I'm currently working with **[StackmeisterGmbH][stackmeister]**
 
 - 📫 I'm contactable via [contact@ncks.eu][contact]
 
@@ -64,6 +64,8 @@
 [portfolio]: https://ncks.eu/
 
 [contact]: mailto:contact@ncks.eu
+
+[stackmeister]: https://github.com/StackmeisterGmbH
 
 [website]: https://ncks.eu/
 [youtube]: https://www.youtube.com/c/NickYouTube
