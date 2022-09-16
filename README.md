@@ -49,14 +49,14 @@
 
 ## 📊 My Github Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirunick&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=shirunick&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiclasJueterbock&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NiclasJueterbock&layout=compact)
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shirunick">
+    <img src="https://komarev.com/ghpvc/?username=NiclasJueterbock">
 </a>
-<a href="https://github.com/shirunick?tab=followers"><img src="https://img.shields.io/github/followers/shirunick?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/NiclasJueterbock?tab=followers"><img src="https://img.shields.io/github/followers/NiclasJueterbock?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br/>
 <br/>
